@@ -1,0 +1,18 @@
+Push	2.5
+Pop	M0
+Push	3.0
+Push	M0
+Add
+Pop	M1
+Push	M1
+Push	1.0
+Sub
+Pop	M2
+Push	3.14
+Push	M1
+Mul
+Pop	M3
+Push	M3
+Push	2.0
+Div
+Pop	M4	
